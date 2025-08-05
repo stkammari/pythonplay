@@ -1,2 +1,1 @@
-print("I am Playing with Python")
-print(".......................")
+print("I am started Playing with Python")
