@@ -15,5 +15,3 @@ total_profits = profit_per_cup * num_of_coffees
 # printing the number of cups sold and profits earned
 print ("Total coffees sold : " + str(num_of_coffees))
 print ("Total profits earned : " + str(total_profits) )
-
-
